@@ -153,7 +153,7 @@ limitations under the License.
         <commons.lang3.version>3.11</commons.lang3.version>
         <commons.text.version>1.9</commons.text.version>
         <groovy.version>2.5.14</groovy.version>
-        <hadoop.version>2.7.7</hadoop.version>
+        <hadoop.version>3.0.0</hadoop.version>
         <java.tuples.version>1.2</java.tuples.version>
         <javadoc-plugin.version>3.1.0</javadoc-plugin.version>
         <jcabi.version>1.1</jcabi.version>
