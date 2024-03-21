@@ -148,7 +148,7 @@ limitations under the License.
         <url>https://github.com/apache/tinkerpop</url>
     </scm>
     <properties>
-        <commons.configuration.version>2.7</commons.configuration.version>
+        <commons.configuration.version>2.10.1</commons.configuration.version>
         <commons.lang.version>2.6</commons.lang.version>
         <commons.lang3.version>3.11</commons.lang3.version>
         <commons.text.version>1.9</commons.text.version>
