@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210416
 
 LABEL maintainer="Daniel Kuppitz <me@gremlin.guru>"
 
